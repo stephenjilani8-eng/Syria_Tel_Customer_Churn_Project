@@ -36,7 +36,7 @@ The box plot show that the median of the churn customers is higher than that of 
 
 There is also a bigger spread in the churn customers indicating that there is some randomness in the way customers churn in relation to total minutes. There are also more outliers in the churn clients which suggests possibility of other factors that lead to customer churn.
 
-![Customer Service calls vs churn](Images/Churn_vs_Total_minutes.PNG)
+![Customer Service calls vs churn](Images/Account_legnth_Vs_Churn.PNG)
 
 The histogram above shows the relationship between the account length and churn rate. We can see that most of the customers leace the company between the 100th and the 150th day of procuring the company's services.The company  should then focus mostly on the clients in this and the categories before in order to ensure that they do not churn.
 
