@@ -20,7 +20,9 @@ We checked for the descriptive statistics for the dataset just to get a better u
 
 We prepares visualizations from the raw data to see if there were relationships between the features of the dataset and customer churn. Some of the vizualizations and their accompanying insights are listed below.
 
-![Alt text]()
+![Customer Service calls vs churn](customer_service_calls_vs_churn.PNG)
+
+
 
 
 
