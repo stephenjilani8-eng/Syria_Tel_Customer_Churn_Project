@@ -14,6 +14,16 @@ Data Source: The data was obtained from Kaggle and the link is below;
 https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 
 **DATA PREPARATION**
+We started by importing the necesarry libraries into our notebook, then headed to load the SyriaTel Churn dataset.
+
+We checked for the descriptive statistics for the dataset just to get a better understanding. This was followed by checking for duplicates and missing values. Fortunately, the dataset was fairly clean and we proceeded with EDA to get insights that were relevant to our project.
+
+We prepares visualizations from the raw data to see if there were relationships between the features of the dataset and customer churn. Some of the vizualizations and their accompanying insights are listed below.
+
+![Alt text]()
+
+
+
 
 
 
